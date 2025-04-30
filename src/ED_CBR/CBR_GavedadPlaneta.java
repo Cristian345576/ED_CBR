@@ -1,5 +1,5 @@
 package ED_CBR;
-//cnjasdhad
+//cnjasdhadwww
 public class CBR_GavedadPlaneta {
 	public int getId() {
 		return id;
