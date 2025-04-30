@@ -1,8 +1,9 @@
 package ED_CBR;
-// wjuehfiouawhebfiuwHGESFwregwaergjjhuffvfd
-//lkpwretgjpergjpeirgjyt dddddddejfjdd
+//vesion 1.0
+//Autor Cristian
 
 public class Persona_CBR {
+	//Getter y Setter
 	public class Persona {
 		public int getId() {
 			return id;
@@ -34,6 +35,7 @@ public class Persona_CBR {
 		public void setEdad(int edad) {
 			this.edad = edad;
 		}
+	//El String
 		@Override
 		public String toString() {
 			return "Persona [id=" + id + ", nombre=" + nombre + ", masa=" + masa + ", altura=" + altura + ", edad="
